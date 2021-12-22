@@ -6,7 +6,7 @@ module.exports = {
     season_num: 19, // Update this whenever there is a new season.
     banner: 'https://cdn.discordapp.com/attachments/898163750287331358/920381230401347696/modfn.png',
 
-    background: 'worldcup'
+    background: 'season19xmas'
     /*
     worldcup - WorldCup
     winter19 - idk
